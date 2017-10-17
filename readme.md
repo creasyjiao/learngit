@@ -1,9 +1,10 @@
-	| 表名              | 表                     | 数据库表说明 | 备注 |
+
     |:---------------- |:------------------------------- |:--------------------------- |:---------------------|
+    |表名              | 表                     | 数据库表说明 | 备注 |
     | 渠道表            | ULTAB_A_MERCHANT      | IS_CHANNEL ='1'  |  ----ULTAB_BO_CHANNELINFO |
     | 渠道扩展表         | ULTAB_A_MERCEXTENDINFO  |             |             |
     | 渠道配置信息表     | ULTAB_SHP_SERVICE_CONFIG |             |            |
-	|  |  |  |
+    |  |  |  |
     | 产品提供方表         | ULTAB_A_MERCHANT | IS_ISSUE ='1' |
     | 产品提供方扩展表     | ULTAB_A_MERCEXTENDINFO | |  |
     | 产品提供方配置信息表  | ULTAB_BO_EXT_CODE_MERC | |  |
